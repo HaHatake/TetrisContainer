@@ -1,5 +1,5 @@
 # TetrisContainer
-This container is web tetris service in nginx.
+This container is web tetris service in nginx on alphine linux.
 
 # How to use  
 clone this files to your folder  

@@ -26,4 +26,4 @@ in browser
 # How to delete  
 "docker stop test_tetriscontainer"  
 "docker rm -f test_tetriscontainer"  
-"docker rmi tetriscontainer"  
+"docker rmi hihata/tetriscontainer"  

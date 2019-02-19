@@ -22,6 +22,7 @@ in your folder
 ```docker pull hihata/tetriscontainer```  
 
 ## Step2
+build container from tetris image. It works 80port on your device.
 ```docker run -d -p 80:80 --name test_tetriscontainer hihata/tetriscontainer```  
 
 in browser  

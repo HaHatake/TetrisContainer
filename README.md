@@ -15,10 +15,10 @@ in your folder
 "docker build . -t tetriscontainer"  
 
 ## by DockerHub
-docker pull hihata/tetriscontainer
+"docker pull hihata/tetriscontainer"
 
 ## Step2
-"docker run -d -p 80:80 --name test_tetriscontainer tetriscontainer"  
+"docker run -d -p 80:80 --name test_tetriscontainer hihata/tetriscontainer"  
 
 in browser  
 "http://127.0.0.1/"  
